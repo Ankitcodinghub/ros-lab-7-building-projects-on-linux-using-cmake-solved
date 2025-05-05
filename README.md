@@ -1,0 +1,1 @@
+# ros-lab-7-building-projects-on-linux-using-cmake-solved
